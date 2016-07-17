@@ -14,7 +14,7 @@
 
                             // The latitude and longitude to center the map (always required)
 
-                            center: myLatlng, // New York
+                            center: myLatlng, // San Francisco
 
                             // How you would like to style the map.
                             // This is where you would paste any style found on Snazzy Maps.
