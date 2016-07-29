@@ -1428,6 +1428,7 @@ border:none;
 	}
 
 	a.btn-slider{
+    background: #808080;
 	display:inline-block;
 	font-size:13px;
 	font-weight:bold;
